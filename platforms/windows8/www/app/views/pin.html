@@ -1,0 +1,6 @@
+<section id="pin-screen">
+	<h1 data-bind="html: pinMessage, css: { correct: pinMessage() === correctPin }">Enter your PIN</h1>
+	<div class="pinpad-items" data-bind="foreach: buttons">
+		<div class="item" data-bind="html: $data, click: $root.buttonPressed"></div>
+	</div>
+</section>

@@ -1,0 +1,115 @@
+body {
+	background: @blrBlue;
+	margin: 0;
+	color: white;
+	font: 100 @baseFont 'Skinny Roboto';
+	line-height: 1.5;
+	text-align: center;
+
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-tap-highlight-color: transparent; /* For some Androids */
+}
+
+header {
+	font-size: 0.8em;
+	margin: 1em 0 .5em;
+	overflow: auto;
+
+	span, img {
+		vertical-align: middle;
+	}
+
+	#logo {
+		float: left;
+		margin-left: .5em;
+
+		img {
+			height: 1.5em;
+		}
+	}
+	
+	#tagline {
+		float: right;
+		margin-right: .5em;
+	}
+}
+
+button {
+	background: @blrGreen;
+
+	&:active {
+		background: @blrYellow;
+	}
+}
+
+h1, h2, h3 {
+	font-weight: 100;
+	margin: 1em auto 0;
+}
+h2 {
+	font-size: 1.2em;
+}
+
+div, span {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+form {
+	background: @blrMediumBlue;
+	width: 100%;
+	margin: 1em 0 0;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: .6em .4em;
+}
+
+.option {
+	cursor: pointer;
+	font-size: .8em;
+	margin: 1em 0;
+}
+
+input, button {
+	display: block;
+	border: none;
+	font: inherit;
+	margin: .4em 0;
+	padding: .5em 0;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	width: 100%;
+	color: @blrNavy;
+	text-align: center;
+
+	&:first-child {
+		margin-top: 0;
+	}
+
+	&:last-child {
+		margin-bottom: 0;
+	}
+}
+
+hr {
+	border: none;
+	border-bottom: 1px white solid;
+}
+
+#splash-screen {
+	#logo {
+		height: 6em;
+		margin-top: 8em;
+		margin-left: 1em;
+	}
+	h1 {
+		margin-top: 0;
+	}
+}

@@ -1,0 +1,191 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/cordovaboil/www/css/less/main.less",
+		"/C/dev/cordovaboil/www/css/less/tap.less",
+		"/C/dev/cordovaboil/www/app/viewmodels/tap.js",
+		"/C/dev/cordovaboil/www/app/views/tap.html",
+		"/C/dev/cordovaboil/www/app/viewmodels/pin.js",
+		"/C/dev/cordovaboil/www/css/less/pin.less",
+		"/C/dev/cordovaboil/www/css/less/media.less",
+		"/C/dev/cordovaboil/www/css/less/home.less",
+		"/C/dev/cordovaboil/www/css/less/variables.less",
+		"/C/dev/cordovaboil/www/app/viewmodels/shell.js",
+		"/C/dev/cordovaboil/www/css/boot.less",
+		"/C/dev/cordovaboil/www/app/views/shell.html",
+		"/C/dev/cordovaboil/www/app/main.js",
+		"/C/dev/cordovaboil/www/app/views/home.html",
+		"/C/dev/cordovaboil/www/css/home.less",
+		"/C/dev/cordovaboil/www/css/boot.css",
+		"/C/dev/cordovaboil/www/app/viewmodels/home.js",
+		"/C/dev/cordovaboil/www/app/views/pin.html",
+		"/C/dev/cordovaboil/www/css/pin.less",
+		"/C/dev/cordovaboil/www/css/main.less",
+		"/C/dev/cordovaboil/www/css/media.less",
+		"/C/dev/cordovaboil/www/css/variables.less",
+		"/C/dev/cordovaboil/www/css/fonts.css",
+		"/C/dev/cordovaboil/www/css/ie10mobile.css",
+		"/C/dev/cordovaboil/www/index.html",
+		"/C/Users/emakkar/AppData/Roaming/Sublime Text 3/Packages/User/LESS.sublime-settings",
+		"/C/Users/emakkar/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+		"/C/dev/cordovaboil/www/lib/quo/quo.debug.js",
+		"/C/Users/emakkar/Downloads/QuoJS-master/QuoJS-master/source/quo.debug.js",
+		"/C/dev/cordovaboil/www/app/viewmodels/welcome.js",
+		"/C/dev/cordovaboil/www/js/index.js",
+		"/C/dev/tools/Durandal StarterKit/index.html",
+		"/C/dev/cordova/www/js/index.js",
+		"/C/Users/emakkar/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/dev/phonegap/www/config.xml",
+		"/C/dev/phonegap/www/spec.html",
+		"/C/dev/phonegap/www/PhoneGapSeed.sublime-project"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\dev\\cordovaboil\\www"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bmo",
+			"jquery-1.9",
+			"bmo",
+			"$$(document)",
+			"ready",
+			"getGlobal",
+			"_listentouches",
+			"touch",
+			".fn",
+			".each"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"blr"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
