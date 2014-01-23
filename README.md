@@ -103,14 +103,12 @@ Finally, we are also overriding the default “window.alert” function once Cordova
 As shown in the previous section, this is the root of your application. All routes for our application are defined here, which allow you to navigate between different screens. 
 Also, any HTML content placed in ‘.\app\views\shell.html’ will be added to each of your screens.
 
-**CSS and LESS**
-The application has been set up to use Less style sheets. Less style sheets are automatically compiled to CSS when a LESS file is saved using WinLess, which starts up automatically and always runs in the background (see task bar).
-The main Less file is ‘.\css\boot.less’. This file imports all other Less style sheets. WinLess is set up to only compile boot.less into boot.css During the compilation process, it will automatically import and compile other style sheets that are imported through boot.less
+**css\less**
+The application has been set up to use Less style sheets. To compile Less style sheets, download and install WinLess and add the '.\css\' folder to WinLess. Then, uncheck all files that WinLess will compile and minify, **except** boot.less
+*boot.less* should be the only file checked to compile by WinLess. This file imports all other Less style sheets. During the compilation process, it will automatically import and compile other style sheets that are imported through boot.less
  
 If you’re adding a new screen to this application and have some screen-specific styling that you’d like to apply:
-1.	Create a new Less file in the ‘.\css\less\’ folder
-2.	Add another line to the boot.less file to import it. Ex: “@import ‘less\\test’
-3.	Open WinLess from the task bar and click Refresh Folder
-4.	Uncheck the checkbox next to your new Less file. Then minimize WinLess.
-
-If WinLess could not compile your style sheets, an error will pop up from the task bar.
+1. Create a new Less file in the ‘.\css\less\’ folder
+2. Add another line to the boot.less file to import it. Ex: “@import ‘less\\test’
+3. Open WinLess from the task bar and click Refresh Folder
+4. Uncheck the checkbox next to your new Less file. Then minimize WinLess.
