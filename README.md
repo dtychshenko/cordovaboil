@@ -14,7 +14,7 @@ This is a sample application consisting of the following integrated tools and fr
 
 The application consists of a few showcases of Cordova and Durandal functionalities. First three options – Vibrate, Get Coordinates and Show Device Info – demonstrate how Cordova is used to access device specific functions. Note that the device must be able to support the operation to perform the function.
 
-The last option – Go to Next Screen – shows how Durandal is used to navigate and transition between different screens in the application. Tapping the “Go to Next Screen” button will take you to a new “pin” screen. Entering four random digits on the pin screen will take you back to the main screen. 
+The last option – Go to Next Screen – shows how Durandal is used to navigate and transition between different screens in the application. Tapping the “Go to Next Screen” button will take you to a new “pin” screen. Entering four random digits on the pin screen will take you back to the main screen.
 
 ## Setting up the Environment for Cordova
 
@@ -22,9 +22,9 @@ The last option – Go to Next Screen – shows how Durandal is used to navigate and
 
 2. Install Cordova using Node Package Manager. Run ‘npm install –g cordova’ http://cordova.apache.org/#download 
 
-3. Clone this project to your local directory and you are ready to make changes and build your application. If using Sublime Text editor, you can open the *CordovaBoilerplate.sublime-project*.
+3. Clone this project to your local directory and you are ready to make changes and build your application.(Optional) If using Sublime Text editor, you can open the *CordovaBoilerplate.sublime-project*.
 
-4. (Optional) I would suggest setting up a server (ex. IIS) to serve the application in your favourite browser for easy debugging and development. Simply point your web server to the '.\www' folder in the project.
+4. To open the application in a web browser, first, open the command line and type 'node web-server.js' to start up the web server. Then, open your favourite web browser and go to 'http://localhost:777/'
 
 ## Building your application
 
