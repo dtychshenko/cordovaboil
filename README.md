@@ -108,7 +108,11 @@ The application has been set up to use Less style sheets. To compile Less style 
 *boot.less* should be the only file checked to compile by WinLess. This file imports all other Less style sheets. During the compilation process, it will automatically import and compile other style sheets that are imported through boot.less
  
 If you’re adding a new screen to this application and have some screen-specific styling that you’d like to apply:
+
 1. Create a new Less file in the ‘.\css\less\’ folder
+
 2. Add another line to the boot.less file to import it. Ex: “@import ‘less\\test’
+
 3. Open WinLess from the task bar and click Refresh Folder
+
 4. Uncheck the checkbox next to your new Less file. Then minimize WinLess.
