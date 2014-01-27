@@ -254,6 +254,9 @@
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\font-awesome\font\fontawesome-webfont.ttf">
       <PackagePath>www\lib\font-awesome\font\fontawesome-webfont.ttf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\img\1505423_10151865476008244_1216779100_n.jpg">
+      <PackagePath>www\img\1505423_10151865476008244_1216779100_n.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\font-awesome\font\fontawesome-webfont.svg">
       <PackagePath>www\lib\font-awesome\font\fontawesome-webfont.svg</PackagePath>
     </AppxPackagedFile>
