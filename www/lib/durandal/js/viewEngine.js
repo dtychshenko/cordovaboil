@@ -80,7 +80,8 @@ define(['durandal/system', 'jquery'], function (system, $) {
          * @return {DOMElement} The view.
          */
         processMarkup: function (markup) {
-            var allElements = this.parseMarkup(markup);
+            var that = this;
+            var allElements = (typeof MSApp === 'undefined') ? that.parseMarkup(markup) : MSApp.execUnsafeLocalFunction(function() { return that.parseMarkup(markup) });
             return this.ensureSingleElement(allElements);
         },
         /**
