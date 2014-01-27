@@ -2,7 +2,7 @@ body {
 	background: @blrBlue;
 	margin: 0;
 	color: white;
-	font: 100 100% 'Skinny Roboto';
+	font: 100 @baseFont 'Skinny Roboto';
 	line-height: 1.5;
 	text-align: center;
 	overflow: hidden;
@@ -16,45 +16,6 @@ body {
 
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
 	-webkit-tap-highlight-color: transparent; /* For some Androids */
-}
-
-#nav {
-	font-size: 0.75em;
-	position: fixed;
-	left: -111px;
-	top: 0;
-	z-index: 1000;
-	transform: skew(-20deg, 0deg);
-	-moz-tranform: skew(-20deg, 0deg);
-	-o-transform: skew(-20deg, 0deg);
-	-webkit-transform: skew(-20deg, 0deg);
-
-	a {
-		text-decoration: none;
-	}
-
-	.logo {
-		position: relative;
-		left: 25px;
-		width: 160px;
-		height: 470px;
-		float: left;
-		background-color: @blrNavy;
-		z-index: 1400;
-		cursor: pointer;
-
-		img {
-			transform: skew(20deg, 0deg);
-			-moz-tranform: skew(20deg, 0deg);
-			-o-transform: skew(20deg, 0deg);
-			-webkit-transform: skew(20deg, 0deg);
-			position: absolute;
-			left: 55px;
-			top: 25px;
-			width: 50px;
-			height: 60px;
-		}
-	}
 }
 
 header {
@@ -90,7 +51,7 @@ button {
 
 h1, h2, h3 {
 	font-weight: 100;
-	margin: .5em auto 0;
+	margin: 1em auto 0;
 }
 h2 {
 	font-size: 1.2em;

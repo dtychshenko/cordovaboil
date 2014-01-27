@@ -16,7 +16,7 @@
     <AppXManifest Include="C:\dev\cordovaboil\platforms\windows8\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-01-27T16:14:36.119</Modified>
+      <Modified>2014-01-21T16:59:14.223</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -42,327 +42,323 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\img\logo.png">
       <PackagePath>www\img\logo.png</PackagePath>
-      <Modified>2014-01-27T16:12:55.639</Modified>
+      <Modified>2014-01-21T16:59:00.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\bootstrap\img\glyphicons-halflings-white.png">
       <PackagePath>www\lib\bootstrap\img\glyphicons-halflings-white.png</PackagePath>
-      <Modified>2014-01-27T16:12:55.677</Modified>
+      <Modified>2014-01-21T16:59:00.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\bootstrap\img\glyphicons-halflings.png">
       <PackagePath>www\lib\bootstrap\img\glyphicons-halflings.png</PackagePath>
-      <Modified>2014-01-27T16:12:55.680</Modified>
+      <Modified>2014-01-21T16:59:00.761</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\img\icon.png">
       <PackagePath>www\lib\durandal\img\icon.png</PackagePath>
-      <Modified>2014-01-27T16:12:55.733</Modified>
+      <Modified>2014-01-21T16:59:00.807</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\img\ios-startup-image-landscape.png">
       <PackagePath>www\lib\durandal\img\ios-startup-image-landscape.png</PackagePath>
-      <Modified>2014-01-27T16:12:55.736</Modified>
+      <Modified>2014-01-21T16:59:00.810</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\img\ios-startup-image-portrait.png">
       <PackagePath>www\lib\durandal\img\ios-startup-image-portrait.png</PackagePath>
-      <Modified>2014-01-27T16:12:55.739</Modified>
+      <Modified>2014-01-21T16:59:00.812</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\app\main.js">
       <PackagePath>www\app\main.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.542</Modified>
+      <Modified>2014-01-21T16:59:00.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\app\viewmodels\home.js">
       <PackagePath>www\app\viewmodels\home.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.547</Modified>
+      <Modified>2014-01-21T16:59:00.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\app\viewmodels\pin.js">
       <PackagePath>www\app\viewmodels\pin.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.551</Modified>
+      <Modified>2014-01-21T16:59:00.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\app\viewmodels\shell.js">
       <PackagePath>www\app\viewmodels\shell.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.553</Modified>
+      <Modified>2014-01-21T16:59:00.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\cordova.js">
       <PackagePath>www\cordova.js</PackagePath>
-      <Modified>2014-01-27T16:12:56.687</Modified>
+      <Modified>2014-01-21T16:59:01.643</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\cordova_plugins.js">
       <PackagePath>www\cordova_plugins.js</PackagePath>
-      <Modified>2014-01-27T16:12:57.142</Modified>
+      <Modified>2014-01-21T16:59:02.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\bootstrap\js\bootstrap.js">
       <PackagePath>www\lib\bootstrap\js\bootstrap.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.701</Modified>
+      <Modified>2014-01-21T16:59:00.780</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\bootstrap\js\bootstrap.min.js">
       <PackagePath>www\lib\bootstrap\js\bootstrap.min.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.722</Modified>
+      <Modified>2014-01-21T16:59:00.800</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\activator.js">
       <PackagePath>www\lib\durandal\js\activator.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.749</Modified>
+      <Modified>2014-01-21T16:59:00.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\app.js">
       <PackagePath>www\lib\durandal\js\app.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.751</Modified>
+      <Modified>2014-01-21T16:59:00.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\binder.js">
       <PackagePath>www\lib\durandal\js\binder.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.753</Modified>
+      <Modified>2014-01-21T16:59:00.826</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\composition.js">
       <PackagePath>www\lib\durandal\js\composition.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.762</Modified>
+      <Modified>2014-01-21T16:59:00.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\events.js">
       <PackagePath>www\lib\durandal\js\events.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.766</Modified>
+      <Modified>2014-01-21T16:59:00.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\plugins\dialog.js">
       <PackagePath>www\lib\durandal\js\plugins\dialog.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.777</Modified>
+      <Modified>2014-01-21T16:59:00.846</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\plugins\history.js">
       <PackagePath>www\lib\durandal\js\plugins\history.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.784</Modified>
+      <Modified>2014-01-21T16:59:00.854</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\plugins\http.js">
       <PackagePath>www\lib\durandal\js\plugins\http.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.787</Modified>
+      <Modified>2014-01-21T16:59:00.856</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\plugins\observable.js">
       <PackagePath>www\lib\durandal\js\plugins\observable.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.794</Modified>
+      <Modified>2014-01-21T16:59:00.864</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\plugins\router.js">
       <PackagePath>www\lib\durandal\js\plugins\router.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.805</Modified>
+      <Modified>2014-01-21T16:59:00.874</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\plugins\serializer.js">
       <PackagePath>www\lib\durandal\js\plugins\serializer.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.815</Modified>
+      <Modified>2014-01-21T16:59:00.877</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\plugins\widget.js">
       <PackagePath>www\lib\durandal\js\plugins\widget.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.818</Modified>
+      <Modified>2014-01-21T16:59:00.880</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\system.js">
       <PackagePath>www\lib\durandal\js\system.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.828</Modified>
+      <Modified>2014-01-21T16:59:00.890</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\transitions\entrance.js">
       <PackagePath>www\lib\durandal\js\transitions\entrance.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.831</Modified>
+      <Modified>2014-01-21T16:59:00.894</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\viewEngine.js">
       <PackagePath>www\lib\durandal\js\viewEngine.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.835</Modified>
+      <Modified>2014-01-21T16:59:00.897</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\js\viewLocator.js">
       <PackagePath>www\lib\durandal\js\viewLocator.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.838</Modified>
+      <Modified>2014-01-21T16:59:00.899</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\fastclick\fastclick.js">
       <PackagePath>www\lib\fastclick\fastclick.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.852</Modified>
+      <Modified>2014-01-21T16:59:00.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\jquery\jquery-2.0.3.intellisense.js">
       <PackagePath>www\lib\jquery\jquery-2.0.3.intellisense.js</PackagePath>
-      <Modified>2014-01-27T16:12:55.998</Modified>
+      <Modified>2014-01-21T16:59:01.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\jquery\jquery-2.0.3.js">
       <PackagePath>www\lib\jquery\jquery-2.0.3.js</PackagePath>
-      <Modified>2014-01-27T16:12:56.053</Modified>
+      <Modified>2014-01-21T16:59:01.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\jquery\jquery-2.0.3.min.js">
       <PackagePath>www\lib\jquery\jquery-2.0.3.min.js</PackagePath>
-      <Modified>2014-01-27T16:12:56.105</Modified>
+      <Modified>2014-01-21T16:59:01.143</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\knockout\knockout-2.3.0.debug.js">
       <PackagePath>www\lib\knockout\knockout-2.3.0.debug.js</PackagePath>
-      <Modified>2014-01-27T16:12:56.411</Modified>
+      <Modified>2014-01-21T16:59:01.415</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\knockout\knockout-2.3.0.js">
       <PackagePath>www\lib\knockout\knockout-2.3.0.js</PackagePath>
-      <Modified>2014-01-27T16:12:56.445</Modified>
+      <Modified>2014-01-21T16:59:01.440</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\require\almond-custom.js">
       <PackagePath>www\lib\require\almond-custom.js</PackagePath>
-      <Modified>2014-01-27T16:12:56.455</Modified>
+      <Modified>2014-01-21T16:59:01.448</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\require\r.js">
       <PackagePath>www\lib\require\r.js</PackagePath>
-      <Modified>2014-01-27T16:12:56.627</Modified>
+      <Modified>2014-01-21T16:59:01.590</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\require\require.js">
       <PackagePath>www\lib\require\require.js</PackagePath>
-      <Modified>2014-01-27T16:12:56.647</Modified>
+      <Modified>2014-01-21T16:59:01.609</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\require\text.js">
       <PackagePath>www\lib\require\text.js</PackagePath>
-      <Modified>2014-01-27T16:12:56.659</Modified>
+      <Modified>2014-01-21T16:59:01.620</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\plugins\org.apache.cordova.device\src\windows8\DeviceProxy.js">
       <PackagePath>www\plugins\org.apache.cordova.device\src\windows8\DeviceProxy.js</PackagePath>
-      <Modified>2014-01-27T16:12:57.147</Modified>
+      <Modified>2014-01-21T16:59:02.065</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\plugins\org.apache.cordova.device\www\device.js">
       <PackagePath>www\plugins\org.apache.cordova.device\www\device.js</PackagePath>
-      <Modified>2014-01-27T16:12:57.150</Modified>
+      <Modified>2014-01-21T16:59:02.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\plugins\org.apache.cordova.dialogs\src\windows8\NotificationProxy.js">
       <PackagePath>www\plugins\org.apache.cordova.dialogs\src\windows8\NotificationProxy.js</PackagePath>
-      <Modified>2014-01-27T16:12:57.154</Modified>
+      <Modified>2014-01-21T16:59:02.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\plugins\org.apache.cordova.dialogs\www\notification.js">
       <PackagePath>www\plugins\org.apache.cordova.dialogs\www\notification.js</PackagePath>
-      <Modified>2014-01-27T16:12:57.158</Modified>
+      <Modified>2014-01-21T16:59:02.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\plugins\org.apache.cordova.geolocation\src\windows8\GeolocationProxy.js">
       <PackagePath>www\plugins\org.apache.cordova.geolocation\src\windows8\GeolocationProxy.js</PackagePath>
-      <Modified>2014-01-27T16:12:57.162</Modified>
+      <Modified>2014-01-21T16:59:02.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\plugins\org.apache.cordova.geolocation\www\PositionError.js">
       <PackagePath>www\plugins\org.apache.cordova.geolocation\www\PositionError.js</PackagePath>
-      <Modified>2014-01-27T16:12:57.165</Modified>
+      <Modified>2014-01-21T16:59:02.080</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\plugins\org.apache.cordova.vibration\www\vibration.js">
       <PackagePath>www\plugins\org.apache.cordova.vibration\www\vibration.js</PackagePath>
-      <Modified>2014-01-27T16:12:57.168</Modified>
+      <Modified>2014-01-21T16:59:02.084</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\app\views\home.html">
       <PackagePath>www\app\views\home.html</PackagePath>
-      <Modified>2014-01-27T16:12:55.557</Modified>
+      <Modified>2014-01-21T16:59:00.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\app\views\pin.html">
       <PackagePath>www\app\views\pin.html</PackagePath>
-      <Modified>2014-01-27T16:12:55.561</Modified>
+      <Modified>2014-01-21T16:59:00.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\app\views\shell.html">
       <PackagePath>www\app\views\shell.html</PackagePath>
-      <Modified>2014-01-27T16:12:55.563</Modified>
+      <Modified>2014-01-21T16:59:00.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\index.html">
       <PackagePath>www\index.html</PackagePath>
-      <Modified>2014-01-27T16:12:55.644</Modified>
+      <Modified>2014-01-21T16:59:00.731</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\config.xml">
       <PackagePath>www\config.xml</PackagePath>
-      <Modified>2014-01-27T16:12:55.566</Modified>
+      <Modified>2014-01-21T16:59:00.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\css\boot.css">
       <PackagePath>www\css\boot.css</PackagePath>
-      <Modified>2014-01-27T16:12:55.570</Modified>
+      <Modified>2014-01-21T16:59:00.689</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\css\fonts.css">
       <PackagePath>www\css\fonts.css</PackagePath>
-      <Modified>2014-01-27T16:12:55.576</Modified>
+      <Modified>2014-01-21T16:59:00.694</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\bootstrap\css\bootstrap-responsive.css">
       <PackagePath>www\lib\bootstrap\css\bootstrap-responsive.css</PackagePath>
-      <Modified>2014-01-27T16:12:55.655</Modified>
+      <Modified>2014-01-21T16:59:00.739</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\bootstrap\css\bootstrap-responsive.min.css">
       <PackagePath>www\lib\bootstrap\css\bootstrap-responsive.min.css</PackagePath>
-      <Modified>2014-01-27T16:12:55.661</Modified>
+      <Modified>2014-01-21T16:59:00.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\bootstrap\css\bootstrap.css">
       <PackagePath>www\lib\bootstrap\css\bootstrap.css</PackagePath>
-      <Modified>2014-01-27T16:12:55.667</Modified>
+      <Modified>2014-01-21T16:59:00.750</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\bootstrap\css\bootstrap.min.css">
       <PackagePath>www\lib\bootstrap\css\bootstrap.min.css</PackagePath>
-      <Modified>2014-01-27T16:12:55.672</Modified>
+      <Modified>2014-01-21T16:59:00.755</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\durandal\css\durandal.css">
       <PackagePath>www\lib\durandal\css\durandal.css</PackagePath>
-      <Modified>2014-01-27T16:12:55.728</Modified>
+      <Modified>2014-01-21T16:59:00.804</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\font-awesome\css\font-awesome-ie7.css">
       <PackagePath>www\lib\font-awesome\css\font-awesome-ie7.css</PackagePath>
-      <Modified>2014-01-27T16:12:55.871</Modified>
+      <Modified>2014-01-21T16:59:00.918</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\font-awesome\css\font-awesome-ie7.min.css">
       <PackagePath>www\lib\font-awesome\css\font-awesome-ie7.min.css</PackagePath>
-      <Modified>2014-01-27T16:12:55.878</Modified>
+      <Modified>2014-01-21T16:59:00.924</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\font-awesome\css\font-awesome.css">
       <PackagePath>www\lib\font-awesome\css\font-awesome.css</PackagePath>
-      <Modified>2014-01-27T16:12:55.885</Modified>
+      <Modified>2014-01-21T16:59:00.930</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\font-awesome\css\font-awesome.min.css">
       <PackagePath>www\lib\font-awesome\css\font-awesome.min.css</PackagePath>
-      <Modified>2014-01-27T16:12:55.889</Modified>
+      <Modified>2014-01-21T16:59:00.935</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\css\boot.less">
       <PackagePath>www\css\boot.less</PackagePath>
-      <Modified>2014-01-27T16:12:55.573</Modified>
+      <Modified>2014-01-21T16:59:00.692</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\css\less\home.less">
       <PackagePath>www\css\less\home.less</PackagePath>
-      <Modified>2014-01-27T16:12:55.580</Modified>
+      <Modified>2014-01-21T16:59:00.697</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\css\less\main.less">
       <PackagePath>www\css\less\main.less</PackagePath>
-      <Modified>2014-01-27T16:12:55.584</Modified>
+      <Modified>2014-01-21T16:59:00.699</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\css\less\media.less">
       <PackagePath>www\css\less\media.less</PackagePath>
-      <Modified>2014-01-27T16:12:55.588</Modified>
+      <Modified>2014-01-21T16:59:00.701</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\css\less\pin.less">
       <PackagePath>www\css\less\pin.less</PackagePath>
-      <Modified>2014-01-27T16:12:55.604</Modified>
+      <Modified>2014-01-21T16:59:00.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\css\less\variables.less">
       <PackagePath>www\css\less\variables.less</PackagePath>
-      <Modified>2014-01-27T16:12:55.607</Modified>
+      <Modified>2014-01-21T16:59:00.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\font\Skinny-Roboto.eot">
       <PackagePath>www\font\Skinny-Roboto.eot</PackagePath>
-      <Modified>2014-01-27T16:12:55.615</Modified>
+      <Modified>2014-01-21T16:59:00.713</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\font-awesome\font\fontawesome-webfont.eot">
       <PackagePath>www\lib\font-awesome\font\fontawesome-webfont.eot</PackagePath>
-      <Modified>2014-01-27T16:12:55.897</Modified>
+      <Modified>2014-01-21T16:59:00.941</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\font\Skinny-Roboto.otf">
       <PackagePath>www\font\Skinny-Roboto.otf</PackagePath>
-      <Modified>2014-01-27T16:12:55.622</Modified>
+      <Modified>2014-01-21T16:59:00.718</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\font-awesome\font\FontAwesome.otf">
       <PackagePath>www\lib\font-awesome\font\FontAwesome.otf</PackagePath>
-      <Modified>2014-01-27T16:12:55.941</Modified>
+      <Modified>2014-01-21T16:59:00.969</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\font\Skinny-Roboto.ttf">
       <PackagePath>www\font\Skinny-Roboto.ttf</PackagePath>
-      <Modified>2014-01-27T16:12:55.628</Modified>
+      <Modified>2014-01-21T16:59:00.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\font-awesome\font\fontawesome-webfont.ttf">
       <PackagePath>www\lib\font-awesome\font\fontawesome-webfont.ttf</PackagePath>
-      <Modified>2014-01-27T16:12:55.931</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\img\1505423_10151865476008244_1216779100_n.jpg">
-      <PackagePath>www\img\1505423_10151865476008244_1216779100_n.jpg</PackagePath>
-      <Modified>2014-01-27T16:12:55.637</Modified>
+      <Modified>2014-01-21T16:59:00.960</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\font-awesome\font\fontawesome-webfont.svg">
       <PackagePath>www\lib\font-awesome\font\fontawesome-webfont.svg</PackagePath>
-      <Modified>2014-01-27T16:12:55.910</Modified>
+      <Modified>2014-01-21T16:59:00.954</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\font-awesome\font\fontawesome-webfont.woff">
       <PackagePath>www\lib\font-awesome\font\fontawesome-webfont.woff</PackagePath>
-      <Modified>2014-01-27T16:12:55.936</Modified>
+      <Modified>2014-01-21T16:59:00.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\lib\jquery\jquery-2.0.3.min.map">
       <PackagePath>www\lib\jquery\jquery-2.0.3.min.map</PackagePath>
-      <Modified>2014-01-27T16:12:56.114</Modified>
+      <Modified>2014-01-21T16:59:01.148</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\www\License.txt">
       <PackagePath>www\License.txt</PackagePath>
-      <Modified>2014-01-27T16:12:56.663</Modified>
+      <Modified>2014-01-21T16:59:01.624</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\dev\cordovaboil\platforms\windows8\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-01-27T16:14:35.897</Modified>
+      <Modified>2014-01-21T16:59:13.916</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

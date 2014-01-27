@@ -1,74 +1,25 @@
 #home-screen {
-	#home-main-img {
-		position: relative;
-		width: 95%;
-		left: -5%;
-
-		img {
-			position: absolute;
-			z-index: -1;
-			width: 100%;
-			top: 0;
-			left: 0;	
-		}
-
-		&:after {
-			content: '';
-			position: absolute;
-			background: -webkit-linear-gradient(transparent, transparent, #000);
-			top: 0;
-			left: 0;
-			bottom: 0;
-			right: 0;
-			height: 800px;
-		}
-	}
-
-	.slant {
+	form {
 		position: absolute;
-		width: 25%;
-		height: 100%;
-		float: left;
-		z-index: 1400;
-		right: -3%;
-		transform: skew(-20deg,0deg);
-		-moz-tranform: skew(-20deg,0deg);
-		-o-transform: skew(-20deg,0deg);
-		-webkit-transform: skew(-20deg,0deg);
-	}
+		bottom: 0;
+		left: 0;
+		right: 0;
+		margin-left: 0;
+		margin-right: 0;
+		width: auto;
 
-	.blue {
-		background-color: @blrNavy;
-	}
+		div {
+			line-height: 2.25;
 
-	.title {
-		color: #FFF;
-		position: absolute;
-		bottom: 5%;
-		left: 5%;
-		font-size: 0.75em;
-
-		h1 {
-			background: #FF2400;
-			font-weight: 800;
-			width: 50%;
-			left: -25%;
-			position: relative;
-
-			&:after {
-				content: '';
-				position: absolute;
-				top: 0;
-				right: -10px;
-				bottom: 0;
-				width: 50px;
-				background: #FF2400;
-				-webkit-transform: skew(-20deg);
+			&:active {
+				background: @blrYellow;
+				color: @blrNavy;
 			}
 		}
+	}
 
-		h2 {
-			text-transform: uppercase;
-		}
+	h1 {
+		margin-top: 1em;
+		width: 60%;
 	}
 }

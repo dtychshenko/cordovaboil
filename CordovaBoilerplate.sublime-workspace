@@ -87,6 +87,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"parsemarkup",
 			"bmo",
 			"jquery-1.9",
 			"bmo",
